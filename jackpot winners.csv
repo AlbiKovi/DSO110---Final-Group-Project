@@ -158,11 +158,11 @@ Date, amount  won ,cash prize,location,state,gender
 3/12/2013,41000000,,"Westlake, Oh",OH,Mixed
 5/17/2013,99000000,,"Tinton Falls, N.J. ",NJ,M
 5/17/2013,99000000,,"Cumberland, Va",VA,M
-5/31/2013,30000000,,"Mays, N.J",NJ,Mixed
+5/31/2013,30000000,,"Mays Landing, N.J",NJ,Mixed
 7/5/2013,80000000,,"Troy, Mi",MI,M
 7/16/2013,20000000,,"Houston, Texas",TX,Unk
 7/26/2013,19000000,,"Kearney, N.J.",NJ,Mixed
-10/1/2013,189000000,,"Anne Arundel County, Md.",MD,Unk
+10/1/2013,189000000,,"Anne Arundel County, Md.",MD,Mixed
 12/17/2013,324000000,,Northern California ,CA,M
 12/17/2013,324000000,,"Stone Mountain, Ga.",GA,M
 1/3/2014,61000000,,"Nashville, Tenn",TN,Mixed
@@ -181,11 +181,11 @@ Date, amount  won ,cash prize,location,state,gender
 6/2/2015,262000000,,"Blue Island, Il",IL,M
 7/21/2015,153000000,,"Mechanicsville, Va.; ticket bought in Milton, Penn.",PA,M
 7/31/2015,25000000,,"McDonald County, Mo",MO,Unk
-9/11/2015,106000000,,"Yonkers, N.Y., and Basking Ridge, N.J.",,Mixed
+9/11/2015,106000000,,"Yonkers, N.Y., and Basking Ridge, N.J.",NY,Mixed
 11/13/2015,202000000,,"Columbus, Oh",OH,Mixed
 1/8/2016,169000000,,"Staten Island, N.Y.",NY,F
 3/8/2016,157000000,,"Seattle, Wash.",WA,M
-7/8/2016,536000000,,Indiana,IN,Unk
+7/8/2016,536000000,,Cambridge City,IN,Unk
 7/19/2016,25000000,,Washington,WA,Unk
 7/22/2016,7500000,,"Bristow, Va",VA,M
 7/22/2016,7500000,," Dallas, Ga",GA,F
@@ -218,7 +218,7 @@ Date, amount  won ,cash prize,location,state,gender
 9/15/2020,120000000,95400000," Racine, Wis",WI,M
 2/16/2021,96000000,68500000,Blossvale NY,NY,Mixed
 2/23/2021,1050000000,766600000,Oakland County MI,MI,Unk
-5/21/2021,516000000,349300000,PA,PA,Unk
+5/21/2021,516000000,349300000,Bucks County,PA,Unk
 9/7/2021,55000000,38000000,crestwood IL,IL,Unk
 9/21/2021,431000000,314400000,Manhattan NY,NY,Unk
 10/22/2021,108000000,75200000,lake havasu city AZ,AZ,Mixed
