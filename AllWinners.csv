@@ -1,0 +1,498 @@
+,Draw Date,JackpotAmount,cash prize,Location,State,Gender,Win,Jackpot,NonJackpotAmount
+0,2002-05-17,23300000.0,,"Chatham, Ill.",IL,Mixed,Y,Y,
+1,2002-05-24,23300000.0,,"Chicago, Ill.",IL,F,Y,Y,
+2,2002-07-16,23300000.0,,"Cliffside Park, N.J.",NJ,M,Y,Y,
+3,2002-08-27,23300000.0,,"New York City, N.Y.",NY,Mixed,Y,Y,
+4,2002-09-06,23300000.0,,"Kentwood, Mich.",MI,M,Y,Y,
+5,2002-09-27,23300000.0,,"Mount Prospect, Ill.",IL,Mixed,Y,Y,
+6,2002-11-08,23300000.0,,"Hoquiam, Wash.",WA,Mixed,Y,Y,
+7,2002-11-19,23300000.0,,"New York City, N.Y.",NY,Mixed,Y,Y,
+8,2002-12-24,23300000.0,,Unclaimed in N.Y.,NY,Unk,Y,Y,
+9,2003-02-11,23300000.0,,"Brooklyn, N.Y.",NY,M,Y,Y,
+10,2003-02-18,23300000.0,,"Geraldine, Ala.",AL,Unk,Y,Y,
+11,2003-03-14,23300000.0,,"Englewood, N.J.",NJ,Mixed,Y,Y,
+12,2003-03-28,23300000.0,,"Randallstown, Md.",MD,Unk,Y,Y,
+13,2003-04-25,23300000.0,,"Brooklyn, N.Y.",NY,Unk,Y,Y,
+14,2003-06-20,23300000.0,,"Baldwin, Md.",MD,F,Y,Y,
+15,2003-07-11,23300000.0,,"Uniondale, N.Y.",NY,F,Y,Y,
+16,2003-08-08,23300000.0,,"Savannah, Ga.",GA,M,Y,Y,
+17,2003-09-30,23300000.0,,"Fitzgerald, Ga.",GA,M,Y,Y,
+18,2003-10-07,23300000.0,,Neptune Township N.J.,MJ,F,Y,Y,
+19,2003-11-11,23300000.0,,"Roswell, Ga.",GA,M,Y,Y,
+20,2003-11-11,23300000.0,,"Roswell, Ga.",GA,M,Y,Y,
+21,2003-11-11,23300000.0,,"Battle Creek, Mich.",MI,Mixed,Y,Y,
+22,2003-12-30,162000000.0,,"South Euclid, Ohio",OH,F,Y,Y,
+23,2004-02-20,239000000.0,,"Winchester, Va.",VA,Mixed,Y,Y,
+24,2004-03-02,21000000.0,,"Dayton, Ohio",OH,M,Y,Y,
+25,2004-04-09,109000000.0,,"Wheaton, Md.",MD,Unk,Y,Y,
+26,2004-05-07,67000000.0,,"Rockaway Beach, N.Y.",NY,Mixed,Y,Y,
+27,2004-07-02,294000000.0,,"Boston, Mass.",MA,Unk,Y,Y,
+28,2004-07-23,47000000.0,,"Pullman, Mich.",MI,M,Y,Y,
+29,2004-07-27,10000000.0,,"Cherry Hill, N.J.",NJ,M,Y,Y,
+30,2004-08-20,52000000.0,,Ohio,OH,Unk,Y,Y,
+31,2004-10-01,106000000.0,,"Carrollton, Texas",TX,Unk,Y,Y,
+32,2004-11-19,149000000.0,,"Queens, N.Y.",NY,M,Y,Y,
+33,2004-12-03,25000000.0,,"Hackensack, NJ.",NJ,Unk,Y,Y,
+34,2005-01-18,131000000.0,,"Washington, Ga.",GA,F,Y,Y,
+35,2005-03-01,115000000.0,,"Rowlett, Texas",TX,Unk,Y,Y,
+36,2005-04-22,208000000.0,,"Port Huron, Mich.",MI,Mixed,Y,Y,
+37,2005-06-03,106000000.0,,Ohio,OH,Mixed,Y,Y,
+38,2005-07-22,170000000.0,,Ohio,OH,Unk,Y,Y,
+39,2005-09-16,258000000.0,,"Rutherford, N.J.",NJ,Mixed,Y,Y,
+40,2005-11-15,315000000.0,,"Anaheim, Calif.",CA,Mixed,Y,Y,
+41,2005-11-29,17500000.0,,"Wilmington, Calif.",CA,Unk,Y,Y,
+42,2005-11-29,17500000.0,,"Saginaw, Mich.",MI,Mixed,Y,Y,
+43,2005-12-30,88000000.0,,"Montebello, Calif.",CA,Mixed,Y,Y,
+44,2006-01-06,15000000.0,,Ohio,OH,M,Y,Y,
+45,2006-02-28,270000000.0,,Ohio,OH,M,Y,Y,
+46,2006-04-18,265000000.0,,Ohio,OH,M,Y,Y,
+47,2006-05-16,94000000.0,,"El Paso, Texas",TX,F,Y,Y,
+48,2006-06-02,47000000.0,,"New Brunswick, N.J.",NJ,M,Y,Y,
+49,2006-06-16,35000000.0,,"La Quinta, Calif.",CA,M,Y,Y,
+50,2006-06-27,24000000.0,,Ohio,OH,Mixed,Y,Y,
+51,2006-07-18,49000000.0,,"Forestville, Md.",MD,Unk,Y,Y,
+52,2006-08-01,31000000.0,,"Queens, N.Y.",NY,Unk,Y,Y,
+53,2006-09-15,163000000.0,,"Bainbridge, Ga.",GA,M,Y,Y,
+54,2006-09-19,12000000.0,,"Bronx, N.Y.",NY,M,Y,Y,
+55,2006-09-26,15000000.0,,"Hasbrouck Heights, N.J.",NJ,M,Y,Y,
+56,2006-10-17,55000000.0,,"North Bend, Wash.",WA,M,Y,Y,
+57,2006-11-14,75000000.0,,"Detroit, Mich.",MI,F,Y,Y,
+58,2006-12-01,40000000.0,,"Columbus, Ohio",OH,M,Y,Y,
+59,2007-01-09,125000000.0,,"Amarillo, Texas",TX,Unk,Y,Y,
+60,2007-03-06,195000000.0,,"Woodbine, N.J.",NJ,Mixed,Y,Y,
+61,2007-03-06,195000000.0,," Dalton, Ga.",GA,M,Y,Y,
+62,2007-04-06,105000000.0,,"Queens, N.Y.",NY,M,Y,Y,
+63,2007-05-11,113000000.0,,"Hawthorne, Calif.",CA,M,Y,Y,
+64,2007-05-29,44000000.0,,"St. Petersburg, Fla., ticket purchased in Va.",VA,Mixed,Y,Y,
+65,2007-07-06,128000000.0,,"Dallas, Texas",TX,Unk,Y,Y,
+66,2007-08-31,82500000.0,,"Villas, N.J.",NJ,Mixed,Y,Y,
+67,2007-08-31,82500000.0,,"Buckingham, Va",VA,M,Y,Y,
+68,2007-08-31,82500000.0,,"Dallas, Texas",TX,Mixed,Y,Y,
+69,2007-08-31,82500000.0,,"Dundalk, Md",MD,M,Y,Y,
+70,2007-09-21,81500000.0,,"Studio City, Calif.",CA,F,Y,Y,
+71,2007-09-25,81500000.0,,"Totowa, N.J.",NJ,Mixed,Y,Y,
+72,2007-10-05,81500000.0,,"Essex, Md.",MD,F,Y,Y,
+73,2007-11-02,81500000.0,,"Mahopac, N.Y.",NY,M,Y,Y,
+74,2007-12-18,81500000.0,,Chicago,IL,Mixed,Y,Y,
+75,2007-12-18,81500000.0,,"Morris County, N.J.",NJ,Mixed,Y,Y,
+76,2008-01-01,33000000.0,,"Fort Worth, Texas",TX,M,Y,Y,
+77,2008-02-22,275000000.0,,"Portal, Ga.",GA,M,Y,Y,
+78,2008-04-01,136000000.0,,"Livonia, Mich.",MI,M,Y,Y,
+79,2008-05-16,196000000.0,,"Amelia, Ohio",OH,Unk,Y,Y,
+80,2008-05-23,8500000.0,,"Tompkins Cove, N.Y.",NY,Mixed,Y,Y,
+81,2008-05-23,8500000.0,," Franklin Grove, Ill.",IL,M,Y,Y,
+82,2008-06-13,57000000.0,,"Kent City, Mich.",MI,M,Y,Y,
+83,2008-07-22,126000000.0,,"Union County, N.J.",NJ,Mixed,Y,Y,
+84,2008-08-29,133000000.0,,"Carrollton, Ga.",GA,Mixed,Y,Y,
+85,2008-09-09,24000000.0,,"Baltimore, Md.",MD,F,Y,Y,
+86,2008-09-16,15000000.0,,"Portsmouth, Ohio.",OH,Unk,Y,Y,
+87,2008-10-03,42000000.0,,"Washington, Mich.",MI,Mixed,Y,Y,
+88,2008-10-21,42000000.0,,"Rockmart, Ga.",GA,M,Y,Y,
+89,2008-12-12,207000000.0,,"Piqua, Ohio",OH,M,Y,Y,
+90,2009-01-02,47000000.0,,"San Diego, Calif.",CA,M,Y,Y,
+91,2009-01-13,22000000.0,,"Merrick, N.Y.",NY,F,Y,Y,
+92,2009-03-03,216000000.0,,"Whitehouse Station, N.J.",NJ,Mixed,Y,Y,
+93,2009-03-13,26000000.0,,"Suffolk County, N.Y.",NY,F,Y,Y,
+94,2009-05-01,75600000.0,,"Mill Valley, Calif.,  ",CA,Mixed,Y,Y,
+95,2009-05-01,75600000.0,,"Chillicothe, Ohio, ",OH,Mixed,Y,Y,
+96,2009-05-01,75600000.0,,"Spotsylvania County, Va.",VA,M,Y,Y,
+97,2009-05-15,19000000.0,,"Santa Ana, Calif. ",CA,M,Y,Y,
+98,2009-05-15,19000000.0,,"Rappahannock County, Va.",VA,Mixed,Y,Y,
+99,2009-05-29,35000000.0,,"Syracuse, N.Y.",NY,Mixed,Y,Y,
+100,2009-07-07,133000000.0,,"Queens, N.Y.",NY,Mixed,Y,Y,
+101,2009-08-28,168000000.0,,"Bronx, NY",NY,M,Y,Y,
+102,2009-08-28,168000000.0,,"San Gabriel, Calif.",CA,M,Y,Y,
+103,2009-09-01,12000000.0,,"Sharpsburg, Ga.",GA,M,Y,Y,
+104,2009-10-16,200000000.0,,"Shenandoah, Va.",VA,M,Y,Y,
+105,2009-11-10,38500000.0,,"South San Francisco, Calif. ",CA,F,Y,Y,
+106,2009-11-10,38500000.0,,"Union County, N.J.",NJ,Mixed,Y,Y,
+107,2009-12-22,165000000.0,,"Suffolk County, N.Y.",NY,Mixed,Y,Y,
+108,2010-01-29,144000000.0,,"Katy, Texas.",TX,M,Y,Y,
+109,2010-03-05,134000000.0,,"Long Beach, Calif.",CA,M,Y,Y,
+110,2010-03-12,20000000.0,,"Hennepin, Ill.",IL,Mixed,Y,Y,
+111,2010-05-04,266000000.0,,"Pico Rivera, Calif.",CA,Mixed,Y,Y,
+112,2010-05-25,64000000.0,,"Brooklyn, N.Y.",NY,F,Y,Y,
+113,2010-05-28,12000000.0,,"Greensboro, N.C.",NC,M,Y,Y,
+114,2010-06-11,36000000.0,,"Kalamazoo, Mich.",MI,Mixed,Y,Y,
+115,2010-06-22,26000000.0,,"Syracuse, N.Y.",NY,M,Y,Y,
+116,2010-07-16,64000000.0,,"Agoura Hills, Calif. and Thu Thao Truong of El Monte, Calif.",,F,Y,Y,
+117,2010-08-27,135000000.0,,"Morro Bay, Calif.",CA,M,Y,Y,
+118,2010-09-17,54000000.0,,"Brooklyn, N.Y.",NY,F,Y,Y,
+119,2010-10-29,141000000.0,,"Gladstone, Mich.",MI,M,Y,Y,
+120,2010-11-09,25000000.0,,"Broadview Heights, Ohio",OH,Unk,Y,Y,
+121,2011-01-04,190000000.0,," Rathdrum, Idaho.",ID,Mixed,Y,Y,
+122,2011-01-04,190000000.0,,"Ephrata, Wash. ",WA,F,Y,Y,
+123,2011-02-01,46500000.0,,"Belleville, Mi.",MI,Mixed,Y,Y,
+124,2011-02-01,46500000.0,,"Munster, Ind. ",IN,Mixed,Y,Y,
+125,2011-03-25,319000000.0,,"Albany, N.Y.",NY,Mixed,Y,Y,
+126,2011-04-15,72000000.0,,"Staten Island, N.Y.",NY,Mixed,Y,Y,
+127,2011-05-03,51000000.0,,"Bakersfield, Ca.",CA,Mixed,Y,Y,
+128,2011-05-13,27000000.0,,"Kalamazoo, Mi.",MI,Mixed,Y,Y,
+129,2011-05-27,35000000.0,,"Granbury, Texas",TX,Mixed,Y,Y,
+130,2011-07-01,107000000.0,,"McLean, Va.",VA,Mixed,Y,Y,
+131,2011-08-05,99000000.0,,"Jefferson, Ohio.",OH,Mixed,Y,Y,
+132,2011-08-19,32000000.0,,"Dorchester, Ma.",MA,Mixed,Y,Y,
+133,2011-09-30,56500000.0,,"Los Angeles, Ca ",CA,Mixed,Y,Y,
+134,2011-09-30,56500000.0,,"Greenville, N.C",NC,Mixed,Y,Y,
+135,2011-11-01,78000000.0,,"Paso Robles, Ca.",CA,M,Y,Y,
+136,2011-12-27,208000000.0,,"San Jose, Calif.; ticket bought in Middle Island, N.Y.",,M,Y,Y,
+137,2012-01-24,72000000.0,,"Atlanta, Ga",GA,F,Y,Y,
+138,2012-03-30,218600000.0,,"Ottawa, Kan.",KS,Unk,Y,Y,
+139,2012-03-30,218600000.0,,"Red Bud, Il",IL,Mixed,Y,Y,
+140,2012-03-30,218600000.0,,"Milford Mill, Md.",MD,Mixed,Y,Y,
+141,2012-05-04,118000000.0,,"Chicago, Il",IL,Unk,Y,Y,
+142,2012-05-15,25000000.0,,"Beverly Hills, Ca",CA,F,Y,Y,
+143,2012-05-29,32000000.0,,"Pomona, Ca",CA,F,Y,Y,
+144,2012-07-03,85000000.0,,"Staten Island, N.Y.",NY,F,Y,Y,
+145,2012-07-27,52000000.0,,"Fremont, Ca",CA,Mixed,Y,Y,
+146,2012-09-11,120000000.0,,"Riverside, Ca",CA,M,Y,Y,
+147,2012-09-18,14000000.0,,"Morganville, N.J. & New York, N.Y.",,M,Y,Y,
+148,2012-10-16,30500000.0,,"Fresno, Ca ",CA,M,Y,Y,
+149,2012-10-16,30500000.0,,"Hyannis, Ma",MA,M,Y,Y,
+150,2012-11-02,33000000.0,,"Garden City Park, N.Y.",NY,M,Y,Y,
+151,2012-11-27,50000000.0,,"Thomasville, Ga",GA,M,Y,Y,
+152,2012-12-14,35000000.0,,"Bellflower, Ca",CA,Unk,Y,Y,
+153,2013-01-25,89000000.0,,"Orange, N.J",NJ,M,Y,Y,
+154,2013-02-05,19000000.0,,"Atlantic Mine, Mi",MI,F,Y,Y,
+155,2013-02-19,26000000.0,,"Mount Airy, Md",MD,Unk,Y,Y,
+156,2013-03-12,41000000.0,,"Westlake, Oh",OH,Mixed,Y,Y,
+157,2013-05-17,99000000.0,,"Tinton Falls, N.J. ",NJ,M,Y,Y,
+158,2013-05-17,99000000.0,,"Cumberland, Va",VA,M,Y,Y,
+159,2013-05-31,30000000.0,,"Mays Landing, N.J",NJ,Mixed,Y,Y,
+160,2013-07-05,80000000.0,,"Troy, Mi",MI,M,Y,Y,
+161,2013-07-16,20000000.0,,"Houston, Texas",TX,Unk,Y,Y,
+162,2013-07-26,19000000.0,,"Kearney, N.J.",NJ,Mixed,Y,Y,
+163,2013-10-01,189000000.0,,"Anne Arundel County, Md.",MD,Mixed,Y,Y,
+164,2013-12-17,324000000.0,,Northern California ,CA,M,Y,Y,
+165,2013-12-17,324000000.0,,"Stone Mountain, Ga.",GA,M,Y,Y,
+166,2014-01-03,61000000.0,,"Nashville, Tenn",TN,Mixed,Y,Y,
+167,2014-03-18,207000000.0,,"Merritt Island, Fl ",FL,Mixed,Y,Y,
+168,2014-03-18,207000000.0,,"La Plata, Md",MD,Unk,Y,Y,
+169,2014-03-25,20000000.0,,"Suffolk County, N.Y",NY,M,Y,Y,
+170,2014-04-04,30000000.0,,"Los Angeles, Ca",CA,M,Y,Y,
+171,2014-05-20,149000000.0,,"Pittsburgh, Penn.",PA,M,Y,Y,
+172,2014-06-13,66000000.0,,"Port Huron, Mi",MI,F,Y,Y,
+173,2014-06-27,33000000.0,,"Houston, Texas",TX,Mixed,Y,Y,
+174,2014-08-22,180000000.0,,"Calimesa, Ca",CA,M,Y,Y,
+175,2014-11-04,326000000.0,,"Wurtsboro, N.Y",NY,M,Y,Y,
+176,2015-01-16,265000000.0,,"Naperville, Il",IL,M,Y,Y,
+177,2015-02-27,126000000.0,,"South Fallsburg, N.Y.",NY,F,Y,Y,
+178,2015-03-24,58000000.0,,"Manhattan, N.Y",NY,Unk,Y,Y,
+179,2015-06-02,262000000.0,,"Blue Island, Il",IL,M,Y,Y,
+180,2015-07-21,153000000.0,,"Mechanicsville, Va.; ticket bought in Milton, Penn.",PA,M,Y,Y,
+181,2015-07-31,25000000.0,,"McDonald County, Mo",MO,Unk,Y,Y,
+182,2015-09-11,106000000.0,,"Yonkers, N.Y., and Basking Ridge, N.J.",NY,Mixed,Y,Y,
+183,2015-11-13,202000000.0,,"Columbus, Oh",OH,Mixed,Y,Y,
+184,2016-01-08,169000000.0,,"Staten Island, N.Y.",NY,F,Y,Y,
+185,2016-03-08,157000000.0,,"Seattle, Wash.",WA,M,Y,Y,
+186,2016-07-08,536000000.0,,Cambridge City,IN,Unk,Y,Y,
+187,2016-07-19,25000000.0,,Washington,WA,Unk,Y,Y,
+188,2016-07-22,7500000.0,,"Bristow, Va",VA,M,Y,Y,
+189,2016-07-22,7500000.0,," Dallas, Ga",GA,F,Y,Y,
+190,2016-09-16,134000000.0,,"Tuscola, Il",IL,Unk,Y,Y,
+191,2016-10-11,49000000.0,,"Rockwall, Texas",TX,Unk,Y,Y,
+192,2016-11-18,83000000.0,,Georgia,GA,Unk,Y,Y,
+193,2017-01-27,191000000.0,,"Nipton, Ca",CA,M,Y,Y,
+194,2017-03-31,177000000.0,,"Stuttgart, Ark",AK,M,Y,Y,
+195,2017-04-28,61000000.0,,"Laguna Hills, Calif.",CA,M,Y,Y,
+196,2017-08-11,393000000.0,,"Palos Heights, Ill.",IL,F,Y,Y,
+197,2017-09-22,105000000.0,,"Homer, N.Y.",NY,M,Y,Y,
+198,2017-10-13,21000000.0,,"Waterford, MI ",MI,Mixed,Y,Y,
+199,2017-10-13,21000000.0,,"Providence, R.I.",RI,M,Y,Y,
+200,2018-01-05,451000000.0,,"Port Richey, Fl",FL,Unk,Y,Y,
+201,2018-03-30,533000000.0,,"Vernon, N.J.",NJ,M,Y,Y,
+202,2018-05-04,142000000.0,,"Moraine, Ohio",OH,Unk,Y,Y,
+203,2018-07-24,543000000.0,,Santa Clara County (Calif.),CA,Mixed,Y,Y,
+204,2018-10-23,15370000000.0,,south carolina,SC,Unk,Y,Y,
+205,2019-01-01,437000000.0,262200000.0,"Long Island, N.Y",NY,Mixed,Y,Y,
+206,2019-03-01,273000000.0,162600000.0,"Alpha, N.J",NJ,M,Y,Y,
+207,2019-03-12,50000000.0,30200000.0,"Kansas City, Mo.",MO,M,Y,Y,
+208,2019-06-07,522000000.0,340000000.0,"San Diego, Calif",CA,F,Y,Y,
+209,2019-07-23,168000000.0,108500000.0,"Portsmouth, N.H",NH,Unk,Y,Y,
+210,2019-09-24,225000000.0,157000000.0,"Leander, Texas",TX,Unk,Y,Y,
+211,2019-12-17,375000000.0,253500000.0,OH,OH,Unk,Y,Y,
+212,2020-02-11,202000000.0,142600000.0,Edison NJ,NJ,Unk,Y,Y,
+213,2020-06-09,414000000.0,319900000.0,"Glendale, Ariz",AZ,Unk,Y,Y,
+214,2020-07-24,123000000.0,100100000.0,"Bayonne, N.J",NJ,Unk,Y,Y,
+215,2020-07-31,22000000.0,17900000.0,"Mira Loma, Calif",CA,M,Y,Y,
+216,2020-09-15,120000000.0,95400000.0," Racine, Wis",WI,M,Y,Y,
+217,2021-02-16,96000000.0,68500000.0,Blossvale NY,NY,Mixed,Y,Y,
+218,2021-02-23,1050000000.0,766600000.0,Oakland County MI,MI,Unk,Y,Y,
+219,2021-05-21,516000000.0,349300000.0,Bucks County,PA,Unk,Y,Y,
+220,2021-09-07,55000000.0,38000000.0,crestwood IL,IL,Unk,Y,Y,
+221,2021-09-21,431000000.0,314400000.0,Manhattan NY,NY,Unk,Y,Y,
+222,2021-10-22,108000000.0,75200000.0,lake havasu city AZ,AZ,Mixed,Y,Y,
+223,2021-11-26,,,Washtenaw County, MI,M,Y,N,2000000.0
+224,2021-09-21,,,Baltimore, MD,M,Y,N,30000.0
+225,2021-08-31,,,New Berlin, WI,M,Y,N,3000000.0
+226,2021-08-20,,,Newport News, VA,F,Y,N,1000000.0
+227,2021-07-27,,,Grand Strand, SC,Unk,Y,N,3000000.0
+228,2021-06-08,,,Urbana, IA,F,Y,N,1000000.0
+229,2021-06-01,,,Grand Rapids, MI,F,Y,N,1000000.0
+230,2021-05-18,,,Rhoadesville, VA,M,Y,N,2000000.0
+231,2021-05-18,,,Newark, DE,Mixed,Y,N,1000000.0
+232,2021-03-30,,,Fargo, ND,Unk,Y,N,3000000.0
+233,2021-03-05,,,Louisville, KY,Unk,Y,N,1000000.0
+234,2021-02-12,,,Matthews, NC,M,Y,N,1000000.0
+235,2021-02-09,,,Crawfordsville, IN,M,Y,N,40000.0
+236,2021-02-02,,,Kansas City, MO,Unk,Y,N,1000000.0
+237,2021-01-22,,,Oakland County, MI,Unk,Y,N,1050000000.0
+238,2021-01-22,,,Riverside, RI,F,Y,N,20000.0
+239,2021-01-22,,,Dryden, VA,F,Y,N,2000000.0
+240,2021-01-15,,,Hicksville, NY,M,Y,N,1000000.0
+241,2021-01-15,,,Eau Claire, WI,M,Y,N,1000000.0
+242,2021-01-01,,,Woodbine, MD,M,Y,N,50000.0
+243,2020-11-17,,,Christiansburg, VA,M,Y,N,1000000.0
+244,2020-10-16,,,Tigard, OR,Mixed,Y,N,1000000.0
+245,2020-10-09,,,Beaufort, SC,Unk,Y,N,2000000.0
+246,2020-09-01,,,Brooklyn, NY,M,Y,N,1000000.0
+247,2020-07-14,,,Malad City, ID,Unk,Y,N,4000000.0
+248,2020-06-23,,,Fredericksburg, VA,M,Y,N,1000000.0
+249,2020-06-09,,,Gautier, MS,Unk,Y,N,2000000.0
+250,2020-05-29,,,Queens, NY,M,Y,N,2000000.0
+251,2020-04-21,,,Charlotte, NC,M,Y,N,2000000.0
+252,2020-02-21,,,Tualatin, OR,M,Y,N,1000000.0
+253,2020-01-14,,,Virginia Beach, VA,M,Y,N,1000000.0
+254,2019-12-17,,,Eldora, IA,Unk,Y,N,1000000.0
+255,2019-12-06,,,Newport, NC,M,Y,N,50000.0
+256,2019-10-29,,,Suffolk, VA,M,Y,N,1000000.0
+257,2019-10-11,,,Park City, KY,M,Y,N,1000000.0
+258,2019-08-27,,,Painted Post, NY,Mixed,Y,N,1000000.0
+259,2019-07-30,,,Jacksonville, OR,M,Y,N,3000000.0
+260,2019-06-11,,,Farmington Hills, MI,M,Y,N,3000000.0
+261,2019-06-04,,,Coon Rapids, MN,M,Y,N,1000000.0
+262,2019-05-28,,,Oceanport, NJ,M,Y,N,1000000.0
+263,2019-05-28,,,Alexandria, VA,M,Y,N,2000000.0
+264,2019-05-24,,,East Elmhurst, NY,M,Y,N,2000000.0
+265,2019-04-19,,,Sioux City, IA,F,Y,N,1000000.0
+266,2019-04-16,,,Triangle, VA,M,Y,N,1000000.0
+267,2019-03-22,,,Millington, MI,M,Y,N,1000000.0
+268,2019-02-26,,,Tappan, NY,M,Y,N,1000000.0
+269,2019-02-22,,,Grand Ledge, MI,M,Y,N,1000000.0
+270,2019-01-29,,,Oceanside, NY,F,Y,N,1000000.0
+271,2019-01-29,,,Dumas, AR,F,Y,N,2000000.0
+272,2019-01-15,,,East Moline, IL,M,Y,N,1000000.0
+273,2019-01-01,,,Bayside, NY,M,Y,N,1000000.0
+274,2018-12-14,,,Tohajiilee, NM,M,Y,N,4000000.0
+275,2018-12-11,,,Brooklyn, NY,F,Y,N,1000000.0
+276,2018-12-04,,,Loreauville, LA,M,Y,N,1000000.0
+277,2018-11-30,,,Springfield, OR,F,Y,N,3000000.0
+278,2018-10-30,,,Grosse Pointe Woods, MI,F,Y,N,1000000.0
+279,2018-10-30,,,Flint, MI,F,Y,N,2000000.0
+280,2018-10-23,,,Mount Pleasant, MI,Mixed,Y,N,1000000.0
+281,2018-10-23,,,Hudsonville, MI,Mixed,Y,N,1000000.0
+282,2018-10-23,,,Milan, IL,M,Y,N,1000000.0
+283,2018-10-23,,,Aylett, VA,F,Y,N,1000000.0
+284,2018-10-23,,,Dartmouth, MA,F,Y,N,1000000.0
+285,2018-10-19,,,Eden, NC,Mixed,Y,N,1000000.0
+286,2018-10-16,,,Dawson Springs, KY,M,Y,N,1000000.0
+287,2018-10-12,,,Sheridan, AR,Mixed,Y,N,3000000.0
+288,2018-10-09,,,Aurora, CO,Mixed,Y,N,1000000.0
+289,2018-10-05,,,Elizabethtown, KY,F,Y,N,1000000.0
+290,2018-08-24,,,Fairfield, CT,Mixed,Y,N,2000000.0
+291,2018-08-10,,,Charles County, MD,Unk,Y,N,1000000.0
+292,2018-07-24,,,Long Pond, PA,M,Y,N,1000000.0
+293,2018-07-24,,,Winthrop, MA,M,Y,N,3000000.0
+294,2018-06-15,,,Indian Head, MD,F,Y,N,1000000.0
+295,2018-05-11,,,Kansas City, MO,Mixed,Y,N,1000000.0
+296,2018-05-08,,,Woodside, NY,F,Y,N,1000000.0
+297,2018-05-04,,,Los Angeles, CA,Mixed,Y,N,570123.0
+298,2018-04-27,,,Conway, SC,Unk,Y,N,2000000.0
+299,2018-03-16,,,Lincoln County, KS,Unk,Y,N,1000000.0
+300,2018-03-13,,,Stratford, CT,F,Y,N,5000000.0
+301,2018-02-13,,,Cheboygan, Mi,F,Y,N,1000000.0
+302,2018-02-13,,,Queens, NY,Mixed,Y,N,1000000.0
+303,2018-02-09,,,Moorestown, NJ,F,Y,N,1000000.0
+304,2018-01-30,,,Bloomington, MN,F,Y,N,1000000.0
+305,2018-01-05,,,Red Boiling Springs, TN,M,Y,N,1000000.0
+306,2018-01-05,,,Dale City, VA,M,Y,N,1000000.0
+307,2018-01-05,,,Broken Arrow, OK,M,Y,N,1000000.0
+308,2018-01-05,,,Duncan, OK,F,Y,N,3000000.0
+309,2017-12-01,,,Omaha, NE,M,Y,N,1000000.0
+310,2017-12-01,,,Bayonne, NJ,M,Y,N,4000000.0
+311,2017-11-17,,,Franklin, MA,M,Y,N,4000000.0
+312,2017-10-27,,,Oakley, MI,F,Y,N,5000000.0
+313,2017-10-10,,,Costa Mesa, CA,M,Y,N,1800000.0
+314,2017-09-26,,,Henrico, VA,M,Y,N,1000000.0
+315,2017-09-22,,,Homer, NY,M,Y,N,105000000.0
+316,2017-08-18,,,Albuquerque, NM,M,Y,N,1000000.0
+317,2017-08-08,,,New York, NY,Mixed,Y,N,1000000.0
+318,2017-08-04,,,Muskegon, MI,M,Y,N,1000000.0
+319,2017-08-01,,,Harrisonburg, VA,M,Y,N,1000000.0
+320,2017-08-01,,,Levittown, NY,F,Y,N,1000000.0
+321,2017-07-21,,,Richmond, VA,Mixed,Y,N,1000000.0
+322,2017-07-18,,,Ontario, Canada,F,Y,N,1000000.0
+323,2017-06-27,,,Queens, NY,M ,Y,N,1000000.0
+324,2017-06-23,,,Bayside Queens, NY,F,Y,N,1000000.0
+325,2017-06-16,,,West Covina, CA,M,Y,N,906649.0
+326,2017-06-06,,,Bridge City, LA,M,Y,N,1000000.0
+327,2017-05-23,,,Dallas, TX,M,Y,N,1000000.0
+328,2017-05-19,,,Everett, MA,M,Y,N,1000000.0
+329,2017-05-19,,,Penhook, VA,F,Y,N,1000000.0
+330,2017-05-09,,,Chesapeake, VA,M,Y,N,1000000.0
+331,2017-05-02,,,Manakin Sabot, VA,M,Y,N,1000000.0
+332,2017-04-28,,,Laguna Hills, CA,M,Y,N,61000000.0
+333,2017-04-28,,,Richland County, OH,F,Y,N,1000000.0
+334,2017-03-28,,,Middleboro, MA,M,Y,N,1000000.0
+335,2017-03-10,,,Port Clinton, OH,M,Y,N,1000000.0
+336,2017-01-24,,,Rochester Hills, MI,M,Y,N,1000000.0
+337,2016-12-27,,,Charleston, SC,Unk,Y,N,1000000.0
+338,2016-12-27,,,Virginia Beach, VA,Mixed,Y,N,1000000.0
+339,2016-12-13,,,Cordova, TN,F,Y,N,1000000.0
+340,2016-12-13,,,Dry Fork, VA,F,Y,N,5000000.0
+341,2016-10-11,,,Alexandria, VA,F,Y,N,1000000.0
+342,2016-09-09,,,Manhattan, NY,M,Y,N,1000000.0
+343,2016-08-23,,,New Hyde Park, NY,F,Y,N,1000000.0
+344,2016-08-16,,,Barre, VT,M,Y,N,5000000.0
+345,2016-08-05,,,Bronx, NY,M,Y,N,1000000.0
+346,2016-08-02,,,Morgantown, WV,Mixed,Y,N,1000000.0
+347,2016-07-26,,,Montgomery County, OH,M,Y,N,3000000.0
+348,2016-07-08,,,Bay St. Louis, MS,M,Y,N,1000000.0
+349,2016-07-08,,,Sharon, MA,M,Y,N,1000000.0
+350,2016-07-05,,,Coral Gables, FL,F,Y,N,1000000.0
+351,2016-06-17,,,Harrisville, RI,M,Y,N,5000000.0
+352,2016-06-10,,,Wilmington, NC,Mixed,Y,N,1000000.0
+353,2016-05-27,,,Niles, MI,M,Y,N,1000000.0
+354,2016-05-20,,,Cupertino, CA,M,Y,N,750207.0
+355,2016-05-17,,,Williston, ND,Unk,Y,N,3000000.0
+356,2016-05-13,,,Baltimore, MD,Unk,Y,N,1000000.0
+357,2016-03-15,,,Valhalla, NY,M,Y,N,1000000.0
+358,2016-03-08,,,Mansfield, OH,M,Y,N,5000000.0
+359,2016-03-01,,,Temecula, CA,F,Y,N,802153.0
+360,2016-02-16,,,Plainview, NY,F,Y,N,1000000.0
+361,2016-01-26,,,Winchester, VA,F,Y,N,1000000.0
+362,2016-01-19,,,Brooklyn, NY,Mixed,Y,N,1000000.0
+363,2016-01-19,,,Dexter, MI,M,Y,N,1000000.0
+364,2016-01-05,,,Bohemia, NY,M,Y,N,1000000.0
+365,2015-12-22,,,East Windsor, NJ,F,Y,N,1000000.0
+366,2015-12-18,,,Topeka, KS,Unk,Y,N,1000000.0
+367,2015-12-11,,,Baltimore, MD,M ,Y,N,1000000.0
+368,2015-12-08,,,Howell, MI,M,Y,N,1000000.0
+369,2015-12-01,,,Revere, MA,F,Y,N,1000000.0
+370,2015-11-27,,,Pleasantville, NJ,M,Y,N,1000000.0
+371,2015-11-24,,,Kearney, NE,M,Y,N,1000000.0
+372,2015-11-20,,,Burlington & Winfield, IA,Mixed,Y,N,1000000.0
+373,2015-10-30,,,Chester, SC,Unk,Y,N,5000000.0
+374,2015-09-18,,,Baltimore County, MD,M,Y,N,1000000.0
+375,2015-09-11,,,Comstock Park, MI,M,Y,N,1000000.0
+376,2015-08-21,,,Mifflintown, PA,F,Y,N,1000000.0
+377,2015-08-18,,,Haverhill, MA,M,Y,N,1000000.0
+378,2015-08-07,,,Champion, MI,F,Y,N,1000000.0
+379,2015-08-04,,,Glen Burnie, MD,M,Y,N,1000000.0
+380,2015-07-31,,,McDonald County, MO,Unk,Y,N,25000000.0
+381,2015-07-10,,,Woolwich, ME,M,Y,N,3000000.0
+382,2015-07-07,,,Beebe, AR,F,Y,N,3000000.0
+383,2015-07-03,,,Newport, KY,Mixed,Y,N,1000000.0
+384,2015-06-26,,,Broadway, VA,Mixed,Y,N,1000000.0
+385,2015-06-12,,,Salem, VA,M,Y,N,1000000.0
+386,2015-06-12,,,Herndon, VA,M,Y,N,5000000.0
+387,2015-06-05,,,Sandy, UT,M,Y,N,1000000.0
+388,2015-06-02,,,Plymouth, MN,M,Y,N,1000000.0
+389,2015-06-02,,,Mableton, GA,M,Y,N,1000000.0
+390,2015-06-02,,,South Chesterfield, VA,M,Y,N,3000000.0
+391,2015-06-02,,,Blue Island, IL,M,Y,N,262000000.0
+392,2015-06-02,,,Amherst, NY,F,Y,N,1000000.0
+393,2015-06-02,,,Burgaw, NC,M,Y,N,1000000.0
+394,2015-05-26,,,Salinas, CA,M,Y,N,2700000.0
+395,2015-05-22,,,Everett, MA,M,Y,N,1000000.0
+396,2015-05-08,,,Steubenville, OH,F,Y,N,1000000.0
+397,2015-04-28,,,Wichita, KS,Unk,Y,N,1000000.0
+398,2015-04-21,,,Columbia, SC,Unk,Y,N,1000000.0
+399,2015-04-21,,,Henrico, VA,M,Y,N,1000000.0
+400,2015-04-17,,,Detroit, MI,M,Y,N,1000000.0
+401,2015-04-03,,,Oakland County, MI,M,Y,N,5000000.0
+402,2015-03-31,,,Oakley, CA,M,Y,N,672000.0
+403,2015-03-27,,,Los Lunas, NM,M,Y,N,1000000.0
+404,2015-03-27,,,Roslyn, NY,M,Y,N,1000000.0
+405,2015-03-24,,,Manhattan, NY,Unk,Y,N,58000000.0
+406,2015-03-24,,,King's Park, NY,M,Y,N,1000000.0
+407,2015-03-10,,,San Pedro, CA,F,Y,N,1100000.0
+408,2015-02-13,,,Coalinga, CA,M,Y,N,3500000.0
+409,2015-01-30,,,Kenilworth, NJ,F,Y,N,1000000.0
+410,2015-01-13,,,Ypsilanti, MI,Mixed,Y,N,1000000.0
+411,2015-01-13,,,Sun City West, AZ,Mixed,Y,N,5000000.0
+412,2015-01-13,,,Lake Crystal, MN,M,Y,N,1000000.0
+413,2015-01-09,,,Waterbury, CT,Mixed,Y,N,1000000.0
+414,2015-01-09,,,Charleston, WV,F,Y,N,1000000.0
+415,2014-12-30,,,Woodbridge, VA,F,Y,N,1000000.0
+416,2014-12-12,,,Los Angeles, CA,F,Y,N,928084.0
+417,2014-12-05,,,Chicopee, MA,M,Y,N,1000000.0
+418,2014-11-18,,,San Jose, CA,F,Y,N,463395.0
+419,2014-11-04,,,Stockton, CA,Mixed,Y,N,597933.0
+420,2014-11-04,,,Coram, NY,F,Y,N,4000000.0
+421,2014-11-04,,,Saddle Brook, NJ,M,Y,N,1000000.0
+422,2014-10-31,,,East Meadow, NY,Unk,Y,N,1000000.0
+423,2014-10-28,,,St. Robert, MO,Unk,Y,N,1000000.0
+424,2014-10-24,,,Montgomery, AL,M ,Y,N,1000000.0
+425,2014-10-21,,,Oakbrook, IL,Mixed,Y,N,1000000.0
+426,2014-10-17,,,Delavan, WI,Mixed,Y,N,1000000.0
+427,2014-10-17,,,Inglewood, CA,M,Y,N,274279.0
+428,2014-10-14,,,Massapequa Park, NY,M,Y,N,1000000.0
+429,2014-10-14,,,Hutchison, KS,F,Y,N,1000000.0
+430,2014-10-10,,,Long Beach, CA,Mixed,Y,N,1300000.0
+431,2014-10-07,,,Medora, IL,F,Y,N,1000000.0
+432,2014-09-23,,,Abingdon, VA,F,Y,N,1000000.0
+433,2014-09-09,,,Capitol Heights, MD,F,Y,N,1000000.0
+434,2014-09-05,,,Birmingham, AL,F,Y,N,1000000.0
+435,2014-09-02,,,Brooklyn, NY,M,Y,N,1000000.0
+436,2014-08-15,,,Sycamore, IL,M,Y,N,1000000.0
+437,2014-08-08,,,New Bedford, MA,F,Y,N,1000000.0
+438,2014-08-01,,,Johnston, IA,Mixed,Y,N,1000000.0
+439,2014-07-18,,,Umatilla, OR,Mixed,Y,N,1000000.0
+440,2014-07-15,,,Winchester, KY,Mixed,Y,N,1000000.0
+441,2014-06-13,,,Sterling, VA,M,Y,N,1000000.0
+442,2014-05-27,,,Atlanta, NY,M,Y,N,1000000.0
+443,2014-05-20,,,Kentwood, MI,F,Y,N,1000000.0
+444,2014-05-16,,,Bartlett, IL,M,Y,N,1000000.0
+445,2014-05-09,,,Alameda County, CA,F,Y,N,468905.0
+446,2014-05-02,,,Long Beach, NY,M,Y,N,1000000.0
+447,2014-04-01,,,Charlotte, NC,M,Y,N,1000000.0
+448,2014-04-01,,,Westland, MI,F,Y,N,1000000.0
+449,2014-03-18,,,Downers Grove, IL,Mixed,Y,N,1000000.0
+450,2014-03-18,,,Vero Beach, FL,Mixed,Y,N,1000000.0
+451,2014-03-18,,,Owosso, MI,M,Y,N,1000000.0
+452,2014-03-18,,,San Bruno, CA,M,Y,N,1960000.0
+453,2014-03-14,,,Westlake, OH,M,Y,N,1000000.0
+454,2014-03-14,,,Lepanto, AR,F,Y,N,3000000.0
+455,2014-03-14,,,Chantilly, VA,F,Y,N,3000000.0
+456,2014-03-11,,,Fort Worth, TX,Mixed,Y,N,1000000.0
+457,2014-03-07,,,Grafton, MA,M,Y,N,1000000.0
+458,2014-03-04,,,San Jose, CA,F,Y,N,421811.0
+459,2014-02-25,,,Essex, MD,Unk,Y,N,1000000.0
+460,2014-02-21,,,Richmond, VA,M,Y,N,1000000.0
+461,2014-02-14,,,Los Angeles, CA,Mixed,Y,N,505010.0
+462,2014-02-14,,,Endicott, NY,M,Y,N,1000000.0
+463,2014-02-07,,,Man, WV,M,Y,N,1000000.0
+464,2014-02-04,,,Whittier, CA,M,Y,N,910781.0
+465,2014-01-21,,,Garfield Heights, OH,F,Y,N,1000000.0
+466,2014-01-17,,,Waldorf, MD,F,Y,N,1000000.0
+467,2014-01-14,,,Andover, MA,Mixed,Y,N,1000000.0
+468,2014-01-14,,,Greensboro, NC,F,Y,N,1000000.0
+469,2013-12-24,,,Lombard, IL,F,Y,N,1000000.0
+470,2013-12-24,,,Mesa, AZ,M,Y,N,1000000.0
+471,2013-12-20,,,Payson, AZ,M,Y,N,1000000.0
+472,2013-12-17,,,San Jose, CA,M,Y,N,324000000.0
+473,2013-12-17,,,Stone Mountain, GA,M,Y,N,324000000.0
+474,2013-12-17,,,Brownsville, TX,F,Y,N,1000000.0
+475,2013-12-17,,,Niles, MI,F,Y,N,1000000.0
+476,2013-12-17,,,Bethlehem, GA,M,Y,N,1000000.0
+477,2013-12-17,,,Columbus, NE,Mixed,Y,N,1000000.0
+478,2013-12-17,,,Chicago, IL,F,Y,N,1000000.0
+479,2013-12-13,,,Syracuse, NY,Mixed,Y,N,1000000.0
+480,2013-12-13,,,Waterford, MI,M,Y,N,1000000.0
+481,2013-12-13,,,Manhattan, NY,M,Y,N,1000000.0
+482,2013-12-13,,,Eastpointe, MI,F,Y,N,1000000.0
+483,2013-12-10,,,Shelton, CT,M,Y,N,1000000.0
+484,2013-12-10,,,West Yarmouth, MA,M,Y,N,1000000.0
+485,2013-11-26,,,Glendale Heights, IL,M,Y,N,1000000.0
+486,2013-11-26,,,Coram, NY,M,Y,N,1000000.0
+487,2013-11-26,,,Stony Point, NY,F,Y,N,1000000.0
+488,2013-11-22,,,Rockwell, NC,M,Y,N,3000000.0
+489,2013-11-19,,,Holbrook, MA,Mixed,Y,N,1000000.0
+490,2013-11-15,,,Irondequoit, NY,F,Y,N,1000000.0
+491,2013-11-12,,,Floral Park Village, NY,Mixed,Y,N,1000000.0
+492,2013-11-05,,,Oceanside, CA,M,Y,N,410115.0
+493,2013-11-01,,,Fort Stockton, TX,F,Y,N,1000000.0
+494,2013-10-25,,,Palmdale, CA,M,Y,N,479070.0
+495,2012-11-27,,,Thomasville, GA,M,Y,N,50000000.0
+496,2012-10-16,,,Hyannis, MA,M,Y,N,3005000.0
