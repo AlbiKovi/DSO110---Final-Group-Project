@@ -209,7 +209,7 @@ Anova(ANOVA1, Type="II", white.adjust=TRUE)
 #            Df   F       Pr(>F)
 # Gender      3   1.7764  0.1526
 # Residuals 220              
-> 
+
 
 
 # Do the Post Hocs with unequal variance
